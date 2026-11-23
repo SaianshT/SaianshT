@@ -18,9 +18,9 @@ A curated collection of four original engineering systems spanning wearable embe
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/SaianshT/EpiAlert"><img src="./assets/thumb_epialert.png" width="100%" alt="EpiAlert Edge Wearable"></a>
+        <a href="https://github.com/SaianshT/EpiAlert#readme"><img src="./assets/thumb_epialert.png" width="100%" alt="EpiAlert Edge Wearable"></a>
       </p>
-      <h3 align="center"><a href="https://github.com/SaianshT/EpiAlert">EpiAlert</a></h3>
+      <h3 align="center"><a href="https://github.com/SaianshT/EpiAlert#readme">EpiAlert</a></h3>
       <p><strong>Problem:</strong> Over 50M individuals suffer from epilepsy; unwitnessed nocturnal seizures pose severe SUDEP risks, yet existing wearables fail when phone batteries die or cloud connections drop.</p>
       <p><strong>Solution:</strong> An autonomous medical wristband running on-device Multi-Centroid Hyperdimensional Computing (7.49 ms latency, 119-hour battery) with direct GSM cellular SMS/call emergency dispatch.</p>
       <p align="center">
@@ -30,14 +30,14 @@ A curated collection of four original engineering systems spanning wearable embe
         <img src="https://img.shields.io/badge/IIT_Delhi_Mentorship-1E293B?style=flat-square" alt="Mentorship">
       </p>
       <p align="center">
-        <a href="https://github.com/SaianshT/EpiAlert"><img src="https://img.shields.io/badge/View_Repository-SaianshT%2FEpiAlert-0D9488?style=for-the-badge&logo=github" alt="View EpiAlert"></a>
+        <a href="https://github.com/SaianshT/EpiAlert#readme"><img src="https://img.shields.io/badge/View_Repository-SaianshT%2FEpiAlert-0D9488?style=for-the-badge&logo=github" alt="View EpiAlert"></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/SaianshT/Ramp-Up"><img src="./assets/thumb_rampup.png" width="100%" alt="Ramp-Up Foldable Ramp"></a>
+        <a href="https://github.com/SaianshT/Ramp-Up#readme"><img src="./assets/thumb_rampup.png" width="100%" alt="Ramp-Up Foldable Ramp"></a>
       </p>
-      <h3 align="center"><a href="https://github.com/SaianshT/Ramp-Up">Ramp-Up</a></h3>
+      <h3 align="center"><a href="https://github.com/SaianshT/Ramp-Up#readme">Ramp-Up</a></h3>
       <p><strong>Problem:</strong> Over 67% of urban public buildings lack ramps, where even a single 4–6 inch step halts wheelchair mobility; commercial portable ramps are too heavy (&gt;8 kg) for independent transit.</p>
       <p><strong>Solution:</strong> A granted Indian Design Patent (No. 506885-001) for a 3.2 kg foldable aluminum ramp that stows inside an under-seat wheelchair pouch and deploys in &lt;15 seconds tool-free.</p>
       <p align="center">
@@ -47,16 +47,16 @@ A curated collection of four original engineering systems spanning wearable embe
         <img src="https://img.shields.io/badge/TSRS_Innovator_Award-1E293B?style=flat-square" alt="Innovator Award">
       </p>
       <p align="center">
-        <a href="https://github.com/SaianshT/Ramp-Up"><img src="https://img.shields.io/badge/View_Repository-SaianshT%2FRamp--Up-0D9488?style=for-the-badge&logo=github" alt="View Ramp-Up"></a>
+        <a href="https://github.com/SaianshT/Ramp-Up#readme"><img src="https://img.shields.io/badge/View_Repository-SaianshT%2FRamp--Up-0D9488?style=for-the-badge&logo=github" alt="View Ramp-Up"></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/SaianshT/SaianshT/tree/main/projects/unlockED"><img src="./assets/thumb_unlocked.png" width="100%" alt="unlockED Counseling AI Co-Pilot"></a>
+        <a href="https://github.com/SaianshT/SaianshT/tree/main/projects/unlockED#readme"><img src="./assets/thumb_unlocked.png" width="100%" alt="unlockED Counseling AI Co-Pilot"></a>
       </p>
-      <h3 align="center"><a href="https://github.com/SaianshT/SaianshT/tree/main/projects/unlockED">unlockED</a></h3>
+      <h3 align="center"><a href="https://github.com/SaianshT/SaianshT/tree/main/projects/unlockED#readme">unlockED</a></h3>
       <p><strong>Problem:</strong> High school career counselors face overwhelming 1:500 student ratios, leading to unspotted prerequisite gaps, missed scholarship deadlines, and counselor burnout.</p>
       <p><strong>Solution:</strong> A multi-agent AI co-pilot (&quot;The Bloomberg Terminal for Counselors&quot;) using custom ReAct loops, deterministic knowledge graphs, and predictive ML models for gap analysis.</p>
       <p align="center">
@@ -66,15 +66,15 @@ A curated collection of four original engineering systems spanning wearable embe
         <img src="https://img.shields.io/badge/Team_Lead-1E293B?style=flat-square" alt="Team Lead">
       </p>
       <p align="center">
-        <a href="https://github.com/SaianshT/SaianshT/tree/main/projects/unlockED"><img src="https://img.shields.io/badge/View_Documentation-Project_Overview-0D9488?style=for-the-badge&logo=googledocs" alt="View Documentation"></a>
-        <a href="https://github.com/shayan-sethi/unlockED"><img src="https://img.shields.io/badge/Original_Repo-shayan--sethi%2FunlockED-0F172A?style=for-the-badge&logo=github" alt="Original Repo"></a>
+        <a href="https://github.com/SaianshT/SaianshT/tree/main/projects/unlockED#readme"><img src="https://img.shields.io/badge/View_Documentation-Project_Overview-0D9488?style=for-the-badge&logo=googledocs" alt="View Documentation"></a>
+        <a href="https://github.com/shayan-sethi/unlockED#readme"><img src="https://img.shields.io/badge/Original_Repo-shayan--sethi%2FunlockED-0F172A?style=for-the-badge&logo=github" alt="Original Repo"></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/SaianshT/Cache-4004"><img src="./assets/thumb_cache4004.png" width="100%" alt="Cache-4004 Tech Recall Hub"></a>
+        <a href="https://github.com/SaianshT/Cache-4004#readme"><img src="./assets/thumb_cache4004.png" width="100%" alt="Cache-4004 Tech Recall Hub"></a>
       </p>
-      <h3 align="center"><a href="https://github.com/SaianshT/Cache-4004">Cache-4004</a></h3>
+      <h3 align="center"><a href="https://github.com/SaianshT/Cache-4004#readme">Cache-4004</a></h3>
       <p><strong>Problem:</strong> Competitive tech quizzers face sub-second buzzer rounds where recall latency matters, but mainstream study tools are weighed down by bloated JS bundles and ads.</p>
       <p><strong>Solution:</strong> A zero-dependency single-page application with 1,000 curated questions, structured tech lore tables, and an algorithmic Fisher-Yates shuffle engine; powered back-to-back tournament victories.</p>
       <p align="center">
@@ -84,7 +84,7 @@ A curated collection of four original engineering systems spanning wearable embe
         <img src="https://img.shields.io/badge/Zero_Dependencies-1E293B?style=flat-square" alt="Zero Dependencies">
       </p>
       <p align="center">
-        <a href="https://github.com/SaianshT/Cache-4004"><img src="https://img.shields.io/badge/View_Repository-SaianshT%2FCache--4004-0D9488?style=for-the-badge&logo=github" alt="View Cache-4004"></a>
+        <a href="https://github.com/SaianshT/Cache-4004#readme"><img src="https://img.shields.io/badge/View_Repository-SaianshT%2FCache--4004-0D9488?style=for-the-badge&logo=github" alt="View Cache-4004"></a>
       </p>
     </td>
   </tr>
