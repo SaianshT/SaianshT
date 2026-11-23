@@ -54,9 +54,9 @@ A curated collection of four original engineering systems spanning wearable embe
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="projects/unlockED/"><img src="./assets/thumb_unlocked.png" width="100%" alt="unlockED Counseling AI Co-Pilot"></a>
+        <a href="https://github.com/SaianshT/Saiansh-Tapuriah-Portfolio/tree/main/projects/unlockED"><img src="./assets/thumb_unlocked.png" width="100%" alt="unlockED Counseling AI Co-Pilot"></a>
       </p>
-      <h3 align="center"><a href="projects/unlockED/">unlockED</a></h3>
+      <h3 align="center"><a href="https://github.com/SaianshT/Saiansh-Tapuriah-Portfolio/tree/main/projects/unlockED">unlockED</a></h3>
       <p><strong>Problem:</strong> High school career counselors face overwhelming 1:500 student ratios, leading to unspotted prerequisite gaps, missed scholarship deadlines, and counselor burnout.</p>
       <p><strong>Solution:</strong> A multi-agent AI co-pilot (&quot;The Bloomberg Terminal for Counselors&quot;) using custom ReAct loops, deterministic knowledge graphs, and predictive ML models for gap analysis.</p>
       <p align="center">
@@ -66,7 +66,7 @@ A curated collection of four original engineering systems spanning wearable embe
         <img src="https://img.shields.io/badge/Team_Lead-1E293B?style=flat-square" alt="Team Lead">
       </p>
       <p align="center">
-        <a href="projects/unlockED/"><img src="https://img.shields.io/badge/View_Documentation-Project_Overview-0D9488?style=for-the-badge&logo=googledocs" alt="View Documentation"></a>
+        <a href="https://github.com/SaianshT/Saiansh-Tapuriah-Portfolio/tree/main/projects/unlockED"><img src="https://img.shields.io/badge/View_Documentation-Project_Overview-0D9488?style=for-the-badge&logo=googledocs" alt="View Documentation"></a>
         <a href="https://github.com/shayan-sethi/unlockED"><img src="https://img.shields.io/badge/Original_Repo-shayan--sethi%2FunlockED-0F172A?style=for-the-badge&logo=github" alt="Original Repo"></a>
       </p>
     </td>
