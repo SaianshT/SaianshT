@@ -30,7 +30,6 @@ A curated collection of four original engineering systems spanning wearable embe
       </p>
       <p align="center">
         <a href="https://github.com/SaianshT/EpiAlert#readme"><img src="https://img.shields.io/badge/View_Repository-SaianshT%2FEpiAlert-0D9488?style=for-the-badge&logo=github" alt="View EpiAlert"></a>
-        <a href="https://youtu.be/XuNVwjO0qEc"><img src="https://img.shields.io/badge/Video_Overview-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch EpiAlert Video Overview"></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -117,12 +116,6 @@ A curated collection of four original engineering systems spanning wearable embe
  ├── Algorithmic state machines & in-place array transformations (Fisher-Yates)
  └── Python backend infrastructure (Flask, JWT security, resilient offline fallbacks)
 ```
-
----
-
-## Technical Presentations & Video Walkthroughs
-
-- 🩺 **EpiAlert System Architecture:** [Watch Technical Walkthrough on YouTube](https://youtu.be/XuNVwjO0qEc) &mdash; Detailed presentation on the wearable biosensing hardware, custom PCB design, and on-device Hyperdimensional Computing (HDC) seizure detection pipeline.
 
 ---
 
