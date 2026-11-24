@@ -81,12 +81,19 @@ unlockED avoids off-the-shelf agent wrappers (LangChain, CrewAI) to eliminate bl
 
 ---
 
-## Contributors & Leadership
+## Hackathon Team & Cross-Functional Roles
 
-Built collaboratively as an original hackathon prototype:
-- **Saiansh Tapuriah** (`SaianshT`): Team Lead & Senior Programmer &mdash; architected the database schema, student profile models, deterministic pre-validation engine, and application state machine.
-- **Shayan Sethi** (`shayan-sethi`): Co-Developer & Collaborator &mdash; original repository host, Groq API integration, and prompt engineering.
-- **Devyansh Garg** (`Devonkedev`): Co-Developer & Collaborator &mdash; frontend views and test profile aggregation.
+Built collaboratively as an original hackathon prototype (3rd Place Winner at ShriTeq):
+
+### Software Engineering & Technical Architecture
+- **Saiansh Tapuriah** (`SaianshT`): **Team Lead & Senior Programmer** &mdash; architected the database schema, student profile models, deterministic pre-validation engine, and application state machine.
+- **Shayan Sethi** (`shayan-sethi`): **Co-Developer & Collaborator** &mdash; original repository host, Groq API integration, and prompt engineering.
+- **Devyansh Garg** (`Devonkedev`): **Co-Developer & Collaborator** &mdash; frontend UI views and test profile aggregation.
+
+### Product Strategy, User Research & Pitch Presentation
+- **Amaira Kapoor**: Product strategy, counselor workflow user research, and feature specification.
+- **Vedant Rathi**: Hackathon pitch presentation, market positioning, and live demo delivery.
+- **Sahil Bhatnagar**: Competitive benchmarking, opportunity radar analysis, and presentation strategy.
 
 ---
 
