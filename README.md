@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">Saiansh Tapuriah</h1>
-  <p align="center"><strong>Engineering Portfolio &bull; Edge AI &bull; Assistive Hardware &bull; Autonomous Systems &bull; High-Performance Web</strong></p>
   <p align="center">
     <a href="https://github.com/SaianshT"><img src="https://img.shields.io/badge/GitHub-SaianshT-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
     <a href="https://www.linkedin.com/in/saiansh-tapuriah-6a375533a/"><img src="https://img.shields.io/badge/LinkedIn-Saiansh_Tapuriah-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
