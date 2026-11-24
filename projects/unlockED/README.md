@@ -81,12 +81,23 @@ unlockED avoids off-the-shelf agent wrappers (LangChain, CrewAI) to eliminate bl
 
 ---
 
-## Contributors & Project Lineage
+## Contributors & Leadership
 
 Built collaboratively as an original hackathon prototype:
-- **Saiansh Tapuriah** (`SaianshT`): Team Lead & Senior Programmer
-- **Shayan Sethi** (`shayan-sethi`): Co-Developer & Collaborator
-- **Devyansh Garg** (`Devonkedev`): Co-Developer & Collaborator
+- **Saiansh Tapuriah** (`SaianshT`): Team Lead & Senior Programmer &mdash; architected the database schema, student profile models, deterministic pre-validation engine, and application state machine.
+- **Shayan Sethi** (`shayan-sethi`): Co-Developer & Collaborator &mdash; original repository host, Groq API integration, and prompt engineering.
+- **Devyansh Garg** (`Devonkedev`): Co-Developer & Collaborator &mdash; frontend views and test profile aggregation.
+
+---
+
+## Academic References, Datasets & Attributions
+
+1. **Higher Education Statistics Agency (HESA) & Office for Students (OfS). (2024).** *Discover Uni Key Information Set (KIS) Dataset*. UK Government Open Data. Used for empirical training and cross-validation of graduate median salary, continuation rate, and professional employment regressors. Available at: [discoveruni.gov.uk](https://discoveruni.gov.uk/)
+2. **Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022).** *ReAct: Synergizing Reasoning and Acting in Language Models*. International Conference on Learning Representations (ICLR 2023). [doi:10.48550/arXiv.2210.03629](https://arxiv.org/abs/2210.03629) &mdash; Foundational methodology for unlockED's custom multi-agent execution loop.
+3. **Meta AI. (2024).** *The Llama 3 Herd of Models*. [arXiv:2407.21783](https://arxiv.org/abs/2407.21783) (Llama 3.3 70B Instruct Foundation Weights).
+4. **Groq Inc. (2024).** *Groq LPU™ (Language Processing Unit) Systems Architecture* &mdash; High-throughput tensor streaming engine utilized for sub-second agent reasoning cycles.
+5. **Pedregosa, F., et al. (2011).** Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830.
+6. **Slab. (2024).** *Quill.js Rich Text Editor*. Open-source interactive editing component. Available at: [quilljs.com](https://quilljs.com/)
 
 <p align="center">
   <a href="https://github.com/shayan-sethi/unlockED"><img src="https://img.shields.io/badge/View_Full_Codebase-shayan--sethi%2FunlockED-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View Codebase on GitHub"></a>
